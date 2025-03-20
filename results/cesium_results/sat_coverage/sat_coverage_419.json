@@ -1,0 +1,41 @@
+[
+    {
+        "id": 419,
+        "name": 419,
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "interpolationAlgorithm": "LAGRANGE",
+            "interpolationDegree": 5,
+            "referenceFrame": "FIXED",
+            "epoch": "2000-01-01T00:00:00.000Z",
+            "cartesian": [
+                0.0,
+                6176265.5,
+                359811.59375,
+                1545570.75,
+                10.0,
+                6159716.0,
+                389972.59375,
+                1602844.5
+            ]
+        },
+        "cylinder": {
+            "length": 1200000.0,
+            "topRadius": 0,
+            "bottomRadius": 352202.0504205346,
+            "material": {
+                "solidColor": {
+                    "color": {
+                        "rgba": [
+                            249.0,
+                            252.0,
+                            48.0,
+                            255.0
+                        ]
+                    }
+                }
+            }
+        }
+    }
+]

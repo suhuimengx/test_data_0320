@@ -1,0 +1,452 @@
+[
+    {
+        "id": 0,
+        "name": "Tokyo",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                139.69171,
+                35.6895,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 1,
+        "name": "Shenzhen",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                114.063427,
+                22.541487,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 2,
+        "name": "Jakarta",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                106.841646,
+                -6.211831,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 3,
+        "name": "São-Paulo",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                -46.63611,
+                -23.5475,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 4,
+        "name": "Mumbai-(Bombay)",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                72.880838,
+                19.073975,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 5,
+        "name": "Shanghai",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                121.45806,
+                31.22222,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 6,
+        "name": "New-York-Newark",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                -74.003663,
+                40.717042,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 7,
+        "name": "Chongqing",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                106.55278,
+                29.56278,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 8,
+        "name": "Lagos",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                3.39583,
+                6.45306,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 9,
+        "name": "Manila",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                120.9822,
+                14.6042,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 10,
+        "name": "Rio-de-Janeiro",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                -43.2075,
+                -22.90278,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 11,
+        "name": "Padang",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                100.35427,
+                -0.94924,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 12,
+        "name": "Acapulco-de-Juárez",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                -99.8901,
+                16.86336,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 13,
+        "name": "Kermanshah",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                47.065,
+                34.31417,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 14,
+        "name": "Fuyang",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                115.815213,
+                32.889497,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 15,
+        "name": "Bordeaux",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                -0.5805,
+                44.84044,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 16,
+        "name": "Jixi--Heilongjiang",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                130.970134,
+                45.295804,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    },
+    {
+        "id": 17,
+        "name": "Najaf",
+        "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+        "description": "",
+        "position": {
+            "cartographicDegrees": [
+                44.331352,
+                31.997314,
+                0.0
+            ]
+        },
+        "point": {
+            "show": true,
+            "color": {
+                "rgba": [
+                    255,
+                    255,
+                    0,
+                    255
+                ]
+            },
+            "pixelSize": 7
+        }
+    }
+]

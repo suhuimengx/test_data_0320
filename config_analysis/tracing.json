@@ -1,0 +1,14 @@
+{
+  "utilization": {
+    "link_utilization_tracing_enabled": true,
+    "target_device_all": true,
+    "target_device": ["100,1", "101,1", "41,1", "41,2", "41,3", "41,4"],
+    "link_utilization_tracing_interval_ns": 5000000000,
+    "enable_trajectory_tracing": true  
+  },
+  "wireshark": {
+    "wireshark_enabled": true,
+    "wireshark_target_device_all": false,
+    "wireshark_target_device": ["1584,1","1585,1","1586,1","1587,1","1588,1","1589,1","1590,1","1591,1","1592,1","1593,1","1594,1","1595,1","1596,1","1597,1","1598,1","1599,1","1600,1","1601,1"]
+  }
+}

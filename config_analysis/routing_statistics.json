@@ -1,0 +1,9 @@
+{
+  "converge": {
+    "network_converge_time": true,
+    "single_task_converge_time": true
+  },
+  "overhead": true,
+  "route_calculation_time": true,
+  "stability": true
+}

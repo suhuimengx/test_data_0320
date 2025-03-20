@@ -1,0 +1,148 @@
+{
+  "earth_stations":[
+    {
+      "id": 0, 
+      "name": "Tokyo", 
+      "network": "other", 
+      "latitude": 35.6895, 
+      "longitude": 139.69171, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 1, 
+      "name": "Shenzhen", 
+      "network": "other", 
+      "latitude": 22.541487, 
+      "longitude": 114.063427, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 2, 
+      "name": "Jakarta", 
+      "network": "other", 
+      "latitude": -6.211831, 
+      "longitude": 106.841646, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 3, 
+      "name": "S\u00e3o-Paulo", 
+      "network": "other", 
+      "latitude": -23.5475, 
+      "longitude": -46.63611, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 4, 
+      "name": "Mumbai-(Bombay)", 
+      "network": "other", 
+      "latitude": 19.073975, 
+      "longitude": 72.880838, 
+      "altitude": 0.0
+    },
+    {
+      "id": 5, 
+      "name": "Shanghai", 
+      "network": "other", 
+      "latitude": 31.22222, 
+      "longitude": 121.45806, 
+      "altitude": 0.0
+    },
+    {
+      "id": 6, 
+      "name": "New-York-Newark", 
+      "network": "other", 
+      "latitude": 40.717042, 
+      "longitude": -74.003663, 
+      "altitude": 0.0
+    },
+    {
+      "id": 7, 
+      "name": "Chongqing", 
+      "network": "other", 
+      "latitude": 29.56278, 
+      "longitude": 106.55278, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 8, 
+      "name": "Lagos", 
+      "network": "other", 
+      "latitude": 6.45306, 
+      "longitude": 3.39583, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 9, 
+      "name": "Manila", 
+      "network": "other", 
+      "latitude": 14.6042, 
+      "longitude": 120.9822, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 10, 
+      "name": "Rio-de-Janeiro", 
+      "network": "other", 
+      "latitude": -22.90278, 
+      "longitude": -43.2075, 
+      "altitude": 0.0
+    },
+    {
+      "id": 11, 
+      "name": "Padang", 
+      "network": "other", 
+      "latitude": -0.94924, 
+      "longitude": 100.35427, 
+      "altitude": 0.0
+    },
+    {
+      "id": 12, 
+      "name": "Acapulco-de-Ju\u00e1rez", 
+      "network": "other", 
+      "latitude": 16.86336, 
+      "longitude": -99.8901, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 13, 
+      "name": "Kermanshah", 
+      "network": "other", 
+      "latitude": 34.31417, 
+      "longitude": 47.065, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 14, 
+      "name": "Fuyang", 
+      "network": "other", 
+      "latitude": 32.889497, 
+      "longitude": 115.815213, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 15, 
+      "name": "Bordeaux", 
+      "network": "other", 
+      "latitude": 44.84044, 
+      "longitude": -0.5805, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 16, 
+      "name": "Jixi--Heilongjiang", 
+      "network": "other", 
+      "latitude": 45.295804, 
+      "longitude": 130.970134, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 17, 
+      "name": "Najaf", 
+      "network": "other", 
+      "latitude": 31.997314, 
+      "longitude": 44.331352, 
+      "altitude": 0.0
+    }
+  ]
+}

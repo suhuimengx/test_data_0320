@@ -1,0 +1,24 @@
+{
+  "addressing": {
+    "enable_ipv6_addressing_protocol": false,
+    "network_addressing_method": "default"
+  },
+  "routing": {
+    "export_routing_tables": {
+      "enable_export_routing_tables": false,
+      "time_interval_s": 1,
+      "target_node": "set(0,1)"
+    },
+    "minhop": {
+      "minhop_enabled": false,
+      "priority": 10,
+      "installation_scope": "satellite"
+    },
+    "satellite_to_ground_routing": {
+      "satellite_to_ground_routing_enabled": false,
+      "priority": 10,
+      "installation_scope": "all"
+    }
+  }
+
+}

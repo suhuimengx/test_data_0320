@@ -1,0 +1,24 @@
+{
+  "rtp_flows":[
+    {
+      "flow_id": 0,
+      "sender": 0,
+      "receiver": 1,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 180000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    },
+    {
+      "flow_id": 1,
+      "sender": 3,
+      "receiver": 1,
+      "target_flow_rate_mbps": 2,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 180000000000,
+      "code_type": "SYNCODEC_TYPE_TRACE",
+      "service_type": "TRACE_TYPE_NEWS"
+    }
+  ]
+}

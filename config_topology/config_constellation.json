@@ -1,0 +1,16 @@
+{ 
+  "constellations":[
+    {
+      "name": "Test1",
+      "walker_type": "delta",
+      "number_of_planes": 72,
+      "number_of_sats_per_plane": 22,
+      "phase_factor": 0,
+      "altitude_km": 600,
+      "inclination_deg": 60,
+      "raan_deg": 0,
+      "propagator": "SGP4",
+      "color": "rgba(249, 252, 48, 1)"
+    }
+  ]
+}

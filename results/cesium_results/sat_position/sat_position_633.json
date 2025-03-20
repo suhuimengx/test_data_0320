@@ -1,0 +1,34 @@
+{
+    "id": 633,
+    "name": 633,
+    "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+    "description": "",
+    "position": {
+        "interpolationAlgorithm": "LAGRANGE",
+        "interpolationDegree": 5,
+        "referenceFrame": "FIXED",
+        "epoch": "2000-01-01T00:00:00.000Z",
+        "cartesian": [
+            0.0,
+            2985290.0,
+            -2010970.0,
+            -5988740.0,
+            10.0,
+            3037430.0,
+            -1960930.0,
+            -5979100.0
+        ]
+    },
+    "point": {
+        "show": true,
+        "color": {
+            "rgba": [
+                249.0,
+                252.0,
+                48.0,
+                255.0
+            ]
+        },
+        "pixelSize": 7
+    }
+}

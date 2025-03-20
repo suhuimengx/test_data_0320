@@ -1,0 +1,34 @@
+{
+    "id": 297,
+    "name": 297,
+    "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+    "description": "",
+    "position": {
+        "interpolationAlgorithm": "LAGRANGE",
+        "interpolationDegree": 5,
+        "referenceFrame": "FIXED",
+        "epoch": "2000-01-01T00:00:00.000Z",
+        "cartesian": [
+            0.0,
+            -5726090.0,
+            3996960.0,
+            -11213.2001953125,
+            10.0,
+            -5744450.0,
+            3969930.0,
+            -76674.1015625
+        ]
+    },
+    "point": {
+        "show": true,
+        "color": {
+            "rgba": [
+                249.0,
+                252.0,
+                48.0,
+                255.0
+            ]
+        },
+        "pixelSize": 7
+    }
+}

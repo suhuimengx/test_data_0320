@@ -1,0 +1,68 @@
+{
+  "addressing": {
+    "enable_ipv4_addressing_protocol": true,
+    "network_addressing_method": "default",
+    "network_part": "10.0.0.0",
+    "address_mask": "/20",
+    "host_part_to_start_from": "0.0.0.1"
+  },
+  "routing": {
+    "export_routing_tables": {
+      "enable_export_routing_tables": false,
+      "time_interval_s": 1,
+      "target_node": "set(0,1,2)"
+    },
+    "ospf": {
+      "ospf_enabled": false,
+      "priority": 20,
+      "installation_scope": "all",
+      "prompt_mode": false,
+      "hello_interval_s": 10,
+      "router_dead_interval_s": 40,
+      "retransmit_interval_s": 3,
+      "LSRefreshTime_s": 600
+    },
+    "aodv": {
+      "aodv_enabled": false,
+      "priority": 20,
+      "installation_scope": "all",
+      "hello_interval_s": 1,
+      "ttl_start": 1,
+      "ttl_increment": 2,
+      "ttl_threshold": 7,
+      "timeout_buffer": 2,
+      "rreq_retries": 2,
+      "rreq_rate_limit": 10,
+      "rerr_rate_limit": 10,
+      "node_traversal_time_ms": 40,
+      "next_hop_wait_ms": 50,
+      "active_route_timeout_s": 3,
+      "my_route_timeout_s": 11.2 ,
+      "black_list_timeout_s": 5.6,
+      "delete_period_s": 15,
+      "net_diameter": 35,
+      "net_traversal_time_s": 2.8,
+      "path_discovery_time_s": 5.6,
+      "max_queue_len": 64,
+      "max_queue_time_s": 30,
+      "allowed_hello_loss": 2
+    },
+    "minhop": {
+      "minhop_enabled": true,
+      "priority": 20,
+      "installation_scope": "satellite"
+    },
+    "bgp": {
+      "bgp_enabled": false,
+      "priority": 5,
+      "installation_scope": "all"
+    },
+    "satellite_to_ground_routing": {
+      "satellite_to_ground_routing_enabled": true,
+      "priority": 10,
+      "installation_scope": "all"
+    }
+    
+  }
+
+}

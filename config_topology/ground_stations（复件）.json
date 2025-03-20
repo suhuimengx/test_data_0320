@@ -1,0 +1,804 @@
+{
+  "earth_stations":[
+    {
+      "id": 0, 
+      "name": "Tokyo", 
+      "network": "other", 
+      "latitude": 35.6895, 
+      "longitude": 139.69171, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 1, 
+      "name": "Delhi", 
+      "network": "other", 
+      "latitude": 28.66667, 
+      "longitude": 77.21667, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 2, 
+      "name": "Shanghai", 
+      "network": "other", 
+      "latitude": 31.22222, 
+      "longitude": 121.45806, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 3, 
+      "name": "S\u00e3o-Paulo", 
+      "network": "other", 
+      "latitude": -23.5475, 
+      "longitude": -46.63611, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 4, 
+      "name": "Mumbai-(Bombay)", 
+      "network": "other", 
+      "latitude": 19.073975, 
+      "longitude": 72.880838, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 5, 
+      "name": "Ciudad-de-M\u00e9xico-(Mexico-City)", 
+      "network": "other", 
+      "latitude": 19.427318, 
+      "longitude": -99.141869, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 6, 
+      "name": "Beijing", 
+      "network": "other", 
+      "latitude": 39.9075, 
+      "longitude": 116.39723, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 7, 
+      "name": "Kinki-M.M.A.-(Osaka)", 
+      "network": "other", 
+      "latitude": 34.675834, 
+      "longitude": 135.553823, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 8, 
+      "name": "Al-Qahirah-(Cairo)", 
+      "network": "other", 
+      "latitude": 30.039173, 
+      "longitude": 31.239411, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 9, 
+      "name": "New-York-Newark", 
+      "network": "other", 
+      "latitude": 40.717042, 
+      "longitude": -74.003663, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 10, 
+      "name": "Dhaka", 
+      "network": "other", 
+      "latitude": 23.7104, 
+      "longitude": 90.40744, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 11, 
+      "name": "Karachi", 
+      "network": "other", 
+      "latitude": 24.9056, 
+      "longitude": 67.0822, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 12, 
+      "name": "Buenos-Aires", 
+      "network": "other", 
+      "latitude": -34.605083, 
+      "longitude": -58.400368, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 13, 
+      "name": "Kolkata-(Calcutta)", 
+      "network": "other", 
+      "latitude": 22.533455, 
+      "longitude": 88.356045, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 14, 
+      "name": "Istanbul", 
+      "network": "other", 
+      "latitude": 41.0138, 
+      "longitude": 28.9497, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 15, 
+      "name": "Chongqing", 
+      "network": "other", 
+      "latitude": 29.56278, 
+      "longitude": 106.55278, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 16, 
+      "name": "Lagos", 
+      "network": "other", 
+      "latitude": 6.45306, 
+      "longitude": 3.39583, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 17, 
+      "name": "Manila", 
+      "network": "other", 
+      "latitude": 14.6042, 
+      "longitude": 120.9822, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 18, 
+      "name": "Rio-de-Janeiro", 
+      "network": "other", 
+      "latitude": -22.90278, 
+      "longitude": -43.2075, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 19, 
+      "name": "Guangzhou--Guangdong", 
+      "network": "other", 
+      "latitude": 23.125457, 
+      "longitude": 113.257374, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 20, 
+      "name": "Los-Angeles-Long-Beach-Santa-Ana", 
+      "network": "other", 
+      "latitude": 34.031656, 
+      "longitude": -118.241716, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 21, 
+      "name": "Moskva-(Moscow)", 
+      "network": "other", 
+      "latitude": 55.754996, 
+      "longitude": 37.621849, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 22, 
+      "name": "Kinshasa", 
+      "network": "other", 
+      "latitude": -4.32758, 
+      "longitude": 15.31357, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 23, 
+      "name": "Tianjin", 
+      "network": "other", 
+      "latitude": 39.108842, 
+      "longitude": 117.18862, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 24, 
+      "name": "Paris", 
+      "network": "other", 
+      "latitude": 48.85341, 
+      "longitude": 2.3488, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 25, 
+      "name": "Shenzhen", 
+      "network": "other", 
+      "latitude": 22.541487, 
+      "longitude": 114.063427, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 26, 
+      "name": "Jakarta", 
+      "network": "other", 
+      "latitude": -6.211831, 
+      "longitude": 106.841646, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 27, 
+      "name": "London", 
+      "network": "other", 
+      "latitude": 51.50853, 
+      "longitude": -0.12574, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 28, 
+      "name": "Bangalore", 
+      "network": "other", 
+      "latitude": 12.97194, 
+      "longitude": 77.59369, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 29, 
+      "name": "Lima", 
+      "network": "other", 
+      "latitude": -12.04318, 
+      "longitude": -77.02824, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 30, 
+      "name": "Chennai-(Madras)", 
+      "network": "other", 
+      "latitude": 13.053091, 
+      "longitude": 80.24875, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 31, 
+      "name": "Seoul", 
+      "network": "other", 
+      "latitude": 37.56826, 
+      "longitude": 126.97783, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 32, 
+      "name": "Bogot\u00e1", 
+      "network": "other", 
+      "latitude": 4.60971, 
+      "longitude": -74.08175, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 33, 
+      "name": "Chukyo-M.M.A.-(Nagoya)", 
+      "network": "other", 
+      "latitude": 35.18147, 
+      "longitude": 136.90641, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 34, 
+      "name": "Johannesburg", 
+      "network": "other", 
+      "latitude": -26.20227, 
+      "longitude": 28.04363, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 35, 
+      "name": "Krung-Thep-(Bangkok)", 
+      "network": "other", 
+      "latitude": 13.721964, 
+      "longitude": 100.525248, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 36, 
+      "name": "Hyderabad", 
+      "network": "other", 
+      "latitude": 17.37528, 
+      "longitude": 78.47444, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 37, 
+      "name": "Chicago", 
+      "network": "other", 
+      "latitude": 41.85003, 
+      "longitude": -87.65005, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 38, 
+      "name": "Lahore", 
+      "network": "other", 
+      "latitude": 31.5497222, 
+      "longitude": 74.3436111, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 39, 
+      "name": "Tehran", 
+      "network": "other", 
+      "latitude": 35.69439, 
+      "longitude": 51.42151, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 40, 
+      "name": "Wuhan", 
+      "network": "other", 
+      "latitude": 30.58333, 
+      "longitude": 114.26667, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 41, 
+      "name": "Chengdu", 
+      "network": "other", 
+      "latitude": 30.66667, 
+      "longitude": 104.06667, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 42, 
+      "name": "Dongguan", 
+      "network": "other", 
+      "latitude": 23.02116, 
+      "longitude": 113.741411, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 43, 
+      "name": "Nanjing--Jiangsu", 
+      "network": "other", 
+      "latitude": 32.048183, 
+      "longitude": 118.789812, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 44, 
+      "name": "Ahmadabad", 
+      "network": "other", 
+      "latitude": 23.03333, 
+      "longitude": 72.61667, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 45, 
+      "name": "Hong-Kong", 
+      "network": "other", 
+      "latitude": 22.279588, 
+      "longitude": 114.188697, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 46, 
+      "name": "Th\u00e0nh-Pho-Ho-Ch\u00ed-Minh-(Ho-Chi-Minh-City)", 
+      "network": "other", 
+      "latitude": 10.75, 
+      "longitude": 106.66667, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 47, 
+      "name": "Foshan", 
+      "network": "other", 
+      "latitude": 23.022778, 
+      "longitude": 113.119953, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 48, 
+      "name": "Kuala-Lumpur", 
+      "network": "other", 
+      "latitude": 3.1412, 
+      "longitude": 101.68653, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 49, 
+      "name": "Baghdad", 
+      "network": "other", 
+      "latitude": 33.34058, 
+      "longitude": 44.40088, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 50, 
+      "name": "Santiago", 
+      "network": "other", 
+      "latitude": -33.45694, 
+      "longitude": -70.64827, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 51, 
+      "name": "Hangzhou", 
+      "network": "other", 
+      "latitude": 30.29365, 
+      "longitude": 120.16142, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 52, 
+      "name": "Ar-Riyadh-(Riyadh)", 
+      "network": "other", 
+      "latitude": 24.690466, 
+      "longitude": 46.709566, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 53, 
+      "name": "Shenyang", 
+      "network": "other", 
+      "latitude": 41.79222, 
+      "longitude": 123.43278, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 54, 
+      "name": "Madrid", 
+      "network": "other", 
+      "latitude": 40.4165, 
+      "longitude": -3.70256, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 55, 
+      "name": "Xi'an--Shaanxi", 
+      "network": "other", 
+      "latitude": 34.289413, 
+      "longitude": 108.940242, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 56, 
+      "name": "Toronto", 
+      "network": "other", 
+      "latitude": 43.70011, 
+      "longitude": -79.4163, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 57, 
+      "name": "Miami", 
+      "network": "other", 
+      "latitude": 25.789097, 
+      "longitude": -80.204044, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 58, 
+      "name": "Pune-(Poona)", 
+      "network": "other", 
+      "latitude": 18.516057, 
+      "longitude": 73.861578, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 59, 
+      "name": "Belo-Horizonte", 
+      "network": "other", 
+      "latitude": -19.92083, 
+      "longitude": -43.93778, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 60, 
+      "name": "Dallas-Fort-Worth", 
+      "network": "other", 
+      "latitude": 32.72541, 
+      "longitude": -97.32085, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 61, 
+      "name": "Surat", 
+      "network": "other", 
+      "latitude": 21.16667, 
+      "longitude": 72.83333, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 62, 
+      "name": "Houston", 
+      "network": "other", 
+      "latitude": 29.7601927, 
+      "longitude": -95.3693896, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 63, 
+      "name": "Singapore", 
+      "network": "other", 
+      "latitude": 1.28967, 
+      "longitude": 103.85007, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 64, 
+      "name": "Philadelphia", 
+      "network": "other", 
+      "latitude": 39.95234, 
+      "longitude": -75.16379, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 65, 
+      "name": "Kitakyushu-Fukuoka-M.M.A.", 
+      "network": "other", 
+      "latitude": 33.6064, 
+      "longitude": 130.4181, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 66, 
+      "name": "Luanda", 
+      "network": "other", 
+      "latitude": -8.83682, 
+      "longitude": 13.23432, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 67, 
+      "name": "Suzhou--Jiangsu", 
+      "network": "other", 
+      "latitude": 31.302068, 
+      "longitude": 120.585259, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 68, 
+      "name": "Haerbin", 
+      "network": "other", 
+      "latitude": 45.756325, 
+      "longitude": 126.646688, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 69, 
+      "name": "Barcelona", 
+      "network": "other", 
+      "latitude": 41.38879, 
+      "longitude": 2.15899, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 70, 
+      "name": "Atlanta", 
+      "network": "other", 
+      "latitude": 33.76, 
+      "longitude": -84.4, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 71, 
+      "name": "Al-Khartum-(Khartoum)", 
+      "network": "other", 
+      "latitude": 15.55177, 
+      "longitude": 32.53241, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 72, 
+      "name": "Dar-es-Salaam", 
+      "network": "other", 
+      "latitude": -6.82349, 
+      "longitude": 39.26951, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 73, 
+      "name": "Sankt-Peterburg-(Saint-Petersburg)", 
+      "network": "other", 
+      "latitude": 59.929858, 
+      "longitude": 30.326228, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 74, 
+      "name": "Washington--D.C.", 
+      "network": "other", 
+      "latitude": 38.89511, 
+      "longitude": -77.03637, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 75, 
+      "name": "Abidjan", 
+      "network": "other", 
+      "latitude": 5.345339, 
+      "longitude": -4.026789, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 76, 
+      "name": "Guadalajara", 
+      "network": "other", 
+      "latitude": 20.66667, 
+      "longitude": -103.33333, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 77, 
+      "name": "Yangon", 
+      "network": "other", 
+      "latitude": 16.80528, 
+      "longitude": 96.15611, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 78, 
+      "name": "Al-Iskandariyah-(Alexandria)", 
+      "network": "other", 
+      "latitude": 31.192471, 
+      "longitude": 29.904596, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 79, 
+      "name": "Ankara", 
+      "network": "other", 
+      "latitude": 39.91987, 
+      "longitude": 32.85427, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 80, 
+      "name": "Kabul", 
+      "network": "other", 
+      "latitude": 34.528887, 
+      "longitude": 69.17246, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 81, 
+      "name": "Qingdao", 
+      "network": "other", 
+      "latitude": 36.09861, 
+      "longitude": 120.37194, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 82, 
+      "name": "Chittagong", 
+      "network": "other", 
+      "latitude": 22.33306, 
+      "longitude": 91.83639, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 83, 
+      "name": "Monterrey", 
+      "network": "other", 
+      "latitude": 25.66667, 
+      "longitude": -100.31667, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 84, 
+      "name": "Sydney", 
+      "network": "other", 
+      "latitude": -33.86785, 
+      "longitude": 151.20732, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 85, 
+      "name": "Dalian", 
+      "network": "other", 
+      "latitude": 38.913811, 
+      "longitude": 121.602322, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 86, 
+      "name": "Xiamen", 
+      "network": "other", 
+      "latitude": 24.47979, 
+      "longitude": 118.08187, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 87, 
+      "name": "Zhengzhou", 
+      "network": "other", 
+      "latitude": 34.75778, 
+      "longitude": 113.64861, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 88, 
+      "name": "Boston", 
+      "network": "other", 
+      "latitude": 42.347919, 
+      "longitude": -71.06453, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 89, 
+      "name": "Melbourne", 
+      "network": "other", 
+      "latitude": -37.814, 
+      "longitude": 144.96332, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 90, 
+      "name": "Bras\u00edlia", 
+      "network": "other", 
+      "latitude": -15.77972, 
+      "longitude": -47.92972, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 91, 
+      "name": "Jiddah", 
+      "network": "other", 
+      "latitude": 21.51694, 
+      "longitude": 39.21917, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 92, 
+      "name": "Phoenix-Mesa", 
+      "network": "other", 
+      "latitude": 33.449454, 
+      "longitude": -112.074743, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 93, 
+      "name": "Ji'nan--Shandong", 
+      "network": "other", 
+      "latitude": 36.676721, 
+      "longitude": 116.997142, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 94, 
+      "name": "Montr\u00e9al", 
+      "network": "other", 
+      "latitude": 45.50884, 
+      "longitude": -73.58781, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 95, 
+      "name": "Shantou", 
+      "network": "other", 
+      "latitude": 23.36814, 
+      "longitude": 116.71479, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 96, 
+      "name": "Nairobi", 
+      "network": "other", 
+      "latitude": -1.28333, 
+      "longitude": 36.81667, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 97, 
+      "name": "Medell\u00edn", 
+      "network": "other", 
+      "latitude": 6.25184, 
+      "longitude": -75.56359, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 98, 
+      "name": "Fortaleza", 
+      "network": "other", 
+      "latitude": -3.74117, 
+      "longitude": -38.543575, 
+      "altitude": 0.0
+    }, 
+    {
+      "id": 99, 
+      "name": "Kunming", 
+      "network": "other", 
+      "latitude": 25.03889, 
+      "longitude": 102.71833, 
+      "altitude": 0.0
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": 649,
+    "name": 649,
+    "availability": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:20.000Z",
+    "description": "",
+    "position": {
+        "interpolationAlgorithm": "LAGRANGE",
+        "interpolationDegree": 5,
+        "referenceFrame": "FIXED",
+        "epoch": "2000-01-01T00:00:00.000Z",
+        "cartesian": [
+            0.0,
+            -4930570.0,
+            -4945030.0,
+            -11229.7001953125,
+            10.0,
+            -4907130.0,
+            -4967810.0,
+            -76690.6015625
+        ]
+    },
+    "point": {
+        "show": true,
+        "color": {
+            "rgba": [
+                249.0,
+                252.0,
+                48.0,
+                255.0
+            ]
+        },
+        "pixelSize": 7
+    }
+}

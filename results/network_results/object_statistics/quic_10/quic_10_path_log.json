@@ -1,0 +1,15 @@
+{
+    "name": "quic_10",
+    "path_info": {
+        "max_hop_count": 12,
+        "min_hop_count": 12,
+        "maxdif_hop_count": 0,
+        "path_change_times": 0,
+        "path_hop_count": [
+            12
+        ],
+        "path_hop_count_timestamp_us": [
+            1097879
+        ]
+    }
+}

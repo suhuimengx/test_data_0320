@@ -1,0 +1,30 @@
+[
+    {
+        "Altitude(m)": 611967.1526083115,
+        "Argument of Periapsis(deg)": 0.0,
+        "Eccentricity": 0.0,
+        "Inclination(deg)": 60.0,
+        "Latitude(deg)": 59.14008178194676,
+        "Longitude(deg)": -38.908054584356776,
+        "Mean Anomaly(deg)": -261.8182,
+        "RAAN(deg)": 315.0,
+        "Satellite Name": "Test1 1392",
+        "Satellite Number": 1392,
+        "Semi-Major Axis(m)": 6980739.136638005,
+        "Time(s)": 0
+    },
+    {
+        "Altitude(m)": 611934.3528373819,
+        "Argument of Periapsis(deg)": 0.00010418945913296404,
+        "Eccentricity": 0.0,
+        "Inclination(deg)": 60.0,
+        "Latitude(deg)": 58.98644529890253,
+        "Longitude(deg)": -37.78481074407715,
+        "Mean Anomaly(deg)": -261.1980938545382,
+        "RAAN(deg)": 314.99957995086027,
+        "Satellite Name": "Test1 1392",
+        "Satellite Number": 1392,
+        "Semi-Major Axis(m)": 6980739.136638005,
+        "Time(s)": 10
+    }
+]

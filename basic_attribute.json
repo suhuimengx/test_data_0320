@@ -1,0 +1,16 @@
+{
+  "basic_simulation_set": {
+    "epoch": "2000-01-01 00:00:00",
+    "simulation_end_time_ns": 20000000000,
+    "dynamic_state_update_interval_ns": 10000000000,
+    "simulation_seed": 123456789,
+    "enable_sun_outage": false
+  },
+  "basic_distributed_simulation_set": {
+    "enable_distributed": false,
+    "enable_distributed_pre_process": false,
+    "distributed_systems_count": 3,
+    "distributed_simulator_implementation_type": "default",
+    "distributed_assign_algorithm": "algorithm1"
+  }
+}

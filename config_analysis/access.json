@@ -1,0 +1,22 @@
+{
+  "object_id_access_for": 1584,
+  "access_object_ids": [],
+  "time": {
+    "use_scenario_time_period": true,
+    "specify_time_period": {
+      "start": 1000000000000,
+      "stop": 10000000000000
+    },
+    "time_interval_ns": 10000000000
+  },
+  "output": {
+    "report": {
+      "access": true,
+      "aer": true
+    },
+    "graphs": {
+      "access": true,
+      "aer": true
+    }
+  }
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "Altitude(m)": 611965.2293178602,
+        "Argument of Periapsis(deg)": 0.0,
+        "Eccentricity": 0.0,
+        "Inclination(deg)": 60.0,
+        "Latitude(deg)": 59.140294824262035,
+        "Longitude(deg)": 133.96991037432025,
+        "Mean Anomaly(deg)": 81.81820000000003,
+        "RAAN(deg)": 160.0,
+        "Satellite Name": "Test1 709",
+        "Satellite Number": 709,
+        "Semi-Major Axis(m)": 6980739.136638005,
+        "Time(s)": 0
+    },
+    {
+        "Altitude(m)": 611995.8543351741,
+        "Argument of Periapsis(deg)": 0.00010418945913296404,
+        "Eccentricity": 0.0,
+        "Inclination(deg)": 60.0,
+        "Latitude(deg)": 59.28339368382023,
+        "Longitude(deg)": 135.10327748381573,
+        "Mean Anomaly(deg)": 82.43830614546184,
+        "RAAN(deg)": 159.99957995086024,
+        "Satellite Name": "Test1 709",
+        "Satellite Number": 709,
+        "Semi-Major Axis(m)": 6980739.136638005,
+        "Time(s)": 10
+    }
+]

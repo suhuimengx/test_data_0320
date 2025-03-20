@@ -1,0 +1,361 @@
+{
+  "global_statistics": {
+    "network_wide_throughput": true,
+    "network_wide_link_utilization": {
+      "MLU_cdf": false,
+      "MLU_vs._t": false,
+      "LU_cdf": false
+    },
+    "hop_count": {
+      "hop<average>_cdf": false,
+      "hop_difference_cdf": false,
+      "hop_change_times_cdf": false
+    },
+    "delay": {
+      "delay<average>_cdf": false,
+      "fluctuation_cdf": false
+    },
+    "packet_loss_rate": true,
+    "flow_size": true
+  },
+  "object_statistics": {
+    "udp": {
+      "enabled_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "details": [
+        {
+          "udp_id": 0,
+          "delay_vs._t": false,
+          "fluctuation_vs._t": false,
+          "throughput_vs._t": false,
+          "route_3d": false,
+          "route_congestion_3d": false,
+          "hop_count_vs._t": false
+        },
+        {
+          "udp_id": 1,
+          "delay_vs._t": false,
+          "fluctuation_vs._t": false,
+          "throughput_vs._t": false,
+          "route_3d": false,
+          "route_congestion_3d": false,
+          "hop_count_vs._t": false
+        }
+      ]
+    },
+    "tcp": {
+      "enabled_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "details": [
+        {
+          "tcp_id": 0,
+          "rtt_vs._t": true,
+          "rtt_fluctuation_vs._t": true,
+          "throughput_vs._t": true,
+          "route_3d": true,
+          "route_congestion_3d": true,
+          "hop_count_vs._t": true
+        },
+        {
+          "tcp_id": 1,
+          "rtt_vs._t": true,
+          "rtt_fluctuation_vs._t": true,
+          "throughput_vs._t": true,
+          "route_3d": true,
+          "route_congestion_3d": true,
+          "hop_count_vs._t": true
+        },
+        {
+          "tcp_id": 2,
+          "rtt_vs._t": true,
+          "rtt_fluctuation_vs._t": true,
+          "throughput_vs._t": true,
+          "route_3d": true,
+          "route_congestion_3d": true,
+          "hop_count_vs._t": true
+        },
+        {
+          "tcp_id": 3,
+          "rtt_vs._t": true,
+          "rtt_fluctuation_vs._t": true,
+          "throughput_vs._t": true,
+          "route_3d": true,
+          "route_congestion_3d": true,
+          "hop_count_vs._t": true
+        },
+        {
+          "tcp_id": 4,
+          "rtt_vs._t": true,
+          "rtt_fluctuation_vs._t": true,
+          "throughput_vs._t": true,
+          "route_3d": true,
+          "route_congestion_3d": true,
+          "hop_count_vs._t": true
+        },
+        {
+          "tcp_id": 5,
+          "rtt_vs._t": true,
+          "rtt_fluctuation_vs._t": true,
+          "throughput_vs._t": true,
+          "route_3d": true,
+          "route_congestion_3d": true,
+          "hop_count_vs._t": true
+        },
+        {
+          "tcp_id": 6,
+          "rtt_vs._t": true,
+          "rtt_fluctuation_vs._t": true,
+          "throughput_vs._t": true,
+          "route_3d": true,
+          "route_congestion_3d": true,
+          "hop_count_vs._t": true
+        },
+        {
+          "tcp_id": 7,
+          "rtt_vs._t": true,
+          "rtt_fluctuation_vs._t": true,
+          "throughput_vs._t": true,
+          "route_3d": true,
+          "route_congestion_3d": true,
+          "hop_count_vs._t": true
+        },
+        {
+          "tcp_id": 8,
+          "rtt_vs._t": true,
+          "rtt_fluctuation_vs._t": true,
+          "throughput_vs._t": true,
+          "route_3d": true,
+          "route_congestion_3d": true,
+          "hop_count_vs._t": true
+        }
+      ]
+    },
+    "quic": {
+      "enabled_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "details": [
+        {
+          "quic_id": 0,
+          "rtt_vs._t": true,
+          "rtt_fluctuation_vs._t": true,
+          "throughput_vs._t": true,
+          "route_3d": true,
+          "route_congestion_3d": true,
+          "hop_count_vs._t": true
+        }
+      ]
+    },
+    "scps_tp": {
+      "enabled_list": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "details": [
+        {
+          "scps_tp_id": 0,
+          "rtt_vs._t": true,
+          "rtt_fluctuation_vs._t": true,
+          "throughput_vs._t": true,
+          "route_3d": true,
+          "route_congestion_3d": true,
+          "hop_count_vs._t": true
+        },
+        {
+          "scps_tp_id": 1,
+          "rtt_vs._t": true,
+          "rtt_fluctuation_vs._t": true,
+          "throughput_vs._t": true,
+          "route_3d": true,
+          "route_congestion_3d": true,
+          "hop_count_vs._t": true
+        }
+      ]
+    },
+    "rtp": {
+      "enabled_list": [
+        0,
+        1
+      ],
+      "details": [
+        {
+          "rtp_id": 0,
+          "delay_vs._t": false,
+          "fluctuation_vs._t": false,
+          "throughput_vs._t": false,
+          "route_3d": false,
+          "route_congestion_3d": false,
+          "hop_count_vs._t": false
+        },
+        {
+          "rtp_id": 1,
+          "delay_vs._t": false,
+          "fluctuation_vs._t": false,
+          "throughput_vs._t": false,
+          "route_3d": false,
+          "route_congestion_3d": false,
+          "hop_count_vs._t": false
+        }
+      ]
+    },
+    "ftp": {
+      "enabled_list": [
+        0,
+        1
+      ],
+      "details": [
+        {
+          "ftp_id": 0,
+          "rtt_vs._t": false,
+          "rtt_fluctuation_vs._t": false,
+          "throughput_vs._t": false,
+          "route_3d": false,
+          "route_congestion_3d": false,
+          "hop_count_vs._t": false
+        },
+        {
+          "ftp_id": 1,
+          "rtt_vs._t": false,
+          "rtt_fluctuation_vs._t": false,
+          "throughput_vs._t": false,
+          "route_3d": false,
+          "route_congestion_3d": false,
+          "hop_count_vs._t": false
+        }
+      ]
+    },
+    "http": {
+      "enabled_list": [
+        0,
+        1
+      ],
+      "details": [
+        {
+          "http_id": 0,
+          "log": false
+        },
+        {
+          "http_id": 1,
+          "log": false
+        }
+      ]
+    }
+  }
+}

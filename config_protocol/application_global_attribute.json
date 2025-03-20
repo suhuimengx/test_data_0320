@@ -1,0 +1,37 @@
+{
+  "traffic_model": {
+    "enabled": false,
+    "random_generate_model": false,
+    "geo_distribution_model": false
+  },
+  "udp_flow": {
+    "application_enabled": false,
+    "total_flow_number": 150
+  },
+  "tcp_flow": {
+    "application_enabled": false,
+    "total_flow_number": 100
+  },
+  "quic_flow": {
+    "application_enabled": true,
+    "total_flow_number": 100
+  },
+  "ftp_flow": {
+    "application_enabled": false,
+    "total_flow_number": 10
+  },
+  "rtp_flow": {
+    "application_enabled": false,
+    "total_flow_number": 10
+  },
+  "3gpp_http_flow": {
+    "application_enabled": false,
+    "total_flow_number": 10,
+    "main_object_size_mean_byte": 102400,
+    "main_object_size_std_dev_byte": 40960
+  },
+  "scps_tp_flow": {
+    "application_enabled": false,
+    "total_flow_number": 100
+  }
+}

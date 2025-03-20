@@ -1,0 +1,62 @@
+[
+    {
+        "id": "quic_15_path_0",
+        "name": "quic_15_path_0",
+        "description": "",
+        "polyline": {
+            "show": [
+                {
+                    "interval": "2000-01-01T00:00:00.000Z/2000-01-01T00:00:01.098Z",
+                    "boolean": false
+                },
+                {
+                    "interval": "2000-01-01T00:00:01.098Z/2000-01-01T00:00:20.000Z",
+                    "boolean": true
+                },
+                {
+                    "interval": "2000-01-01T00:00:20.000Z/2000-01-01T00:00:20.000Z",
+                    "boolean": false
+                }
+            ],
+            "width": 3,
+            "material": {
+                "polylineOutline": {
+                    "color": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineColor": {
+                        "rgba": [
+                            255,
+                            0,
+                            0,
+                            255
+                        ]
+                    },
+                    "outlineWidth": 5
+                }
+            },
+            "arcType": "NONE",
+            "positions": {
+                "references": [
+                    "1586#position",
+                    "121#position",
+                    "120#position",
+                    "119#position",
+                    "141#position",
+                    "163#position",
+                    "185#position",
+                    "207#position",
+                    "229#position",
+                    "251#position",
+                    "273#position",
+                    "1589#position"
+                ]
+            }
+        }
+    }
+]

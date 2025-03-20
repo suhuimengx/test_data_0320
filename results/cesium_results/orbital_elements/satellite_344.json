@@ -1,0 +1,30 @@
+[
+    {
+        "Altitude(m)": 617719.7558149452,
+        "Argument of Periapsis(deg)": 0.0,
+        "Eccentricity": 0.0,
+        "Inclination(deg)": 60.0,
+        "Latitude(deg)": -41.10259915071141,
+        "Longitude(deg)": -174.90545950245092,
+        "Mean Anomaly(deg)": 229.09089999999998,
+        "RAAN(deg)": 75.0,
+        "Satellite Name": "Test1 344",
+        "Satellite Number": 344,
+        "Semi-Major Axis(m)": 6980739.136638005,
+        "Time(s)": 0
+    },
+    {
+        "Altitude(m)": 617911.2920893488,
+        "Argument of Periapsis(deg)": 0.00010418945913296404,
+        "Eccentricity": 0.0,
+        "Inclination(deg)": 60.0,
+        "Latitude(deg)": -41.56579221434951,
+        "Longitude(deg)": -174.401055018138,
+        "Mean Anomaly(deg)": 229.71100614546188,
+        "RAAN(deg)": 74.99957995086027,
+        "Satellite Name": "Test1 344",
+        "Satellite Number": 344,
+        "Semi-Major Axis(m)": 6980739.136638005,
+        "Time(s)": 10
+    }
+]

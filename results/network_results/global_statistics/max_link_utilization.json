@@ -1,0 +1,19 @@
+{
+    "max_utilization_details": [
+        {
+            "constellation_name": "Test1",
+            "maximum_link_utilization (MLU)": [
+                0.0136894832,
+                0.0133126816,
+                0.062456232,
+                0.075354384
+            ]
+        }
+    ],
+    "time_stamp (ns)": [
+        0.0,
+        5000000000.0,
+        10000000000.0,
+        15000000000.0
+    ]
+}

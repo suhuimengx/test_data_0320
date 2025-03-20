@@ -1,0 +1,30 @@
+[
+    {
+        "Altitude(m)": 617719.79507937,
+        "Argument of Periapsis(deg)": 0.0,
+        "Eccentricity": 0.0,
+        "Inclination(deg)": 60.0,
+        "Latitude(deg)": -41.1027054472358,
+        "Longitude(deg)": -94.90538609688478,
+        "Mean Anomaly(deg)": -130.90909999999997,
+        "RAAN(deg)": 155.0,
+        "Satellite Name": "Test1 696",
+        "Satellite Number": 696,
+        "Semi-Major Axis(m)": 6980739.136638005,
+        "Time(s)": 0
+    },
+    {
+        "Altitude(m)": 617911.3311589749,
+        "Argument of Periapsis(deg)": 0.00010418945913296404,
+        "Eccentricity": 0.0,
+        "Inclination(deg)": 60.0,
+        "Latitude(deg)": -41.56589775051105,
+        "Longitude(deg)": -94.40097958492711,
+        "Mean Anomaly(deg)": -130.28899385453818,
+        "RAAN(deg)": 154.99957995086027,
+        "Satellite Name": "Test1 696",
+        "Satellite Number": 696,
+        "Semi-Major Axis(m)": 6980739.136638005,
+        "Time(s)": 10
+    }
+]

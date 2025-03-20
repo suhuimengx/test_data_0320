@@ -1,0 +1,10 @@
+GroundStation 1588  3
+273  3
+GroundStation 1587  0
+75  0
+GroundStation 1586  11
+927  11
+GroundStation 1585  10
+846  10
+GroundStation 1584  9
+727  9

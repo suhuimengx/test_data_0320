@@ -1,0 +1,42 @@
+{
+  "udp": {},
+  "tcp": {
+    "clock_granularity_ns": 1,
+    "initial_CWND_packets": 10,
+    "send_buffer_size_bytes": 33554432,
+    "receive_buffer_size_bytes": 33554432,
+    "segment_size_byte": 1380,
+    "timestamp_option": false,
+    "SACK_option": true,
+    "window_scaling_option": true,
+    "pacing": false
+  },
+  "quic": {
+    "initial_slow_start_threshold": 60000000,
+    "send_buffer_size_bytes": 33554432,
+    "stream_send_buffer_size_bytes": 33554432,
+    "receive_buffer_size_bytes": 33554432,
+    "stream_receive_buffer_size_bytes": 33554432,
+    "max_packet_byte": 1460,
+    "pacing": false,
+    "max_pacing_rate": 4
+  },
+  "dtn-ltp": {},
+  "scps-tp": {
+    "clock_granularity_ns": 1,
+    "initial_CWND_packets": 10,
+    "send_buffer_size_bytes": 33554432,
+    "receive_buffer_size_bytes": 33554432,
+    "segment_size_byte": 1380,
+    "timestamp_option": true,
+    "SNACK_option": true,
+    "window_scaling_option": true,
+    "pacing": true,
+    "max_pacing_rate": 10,
+    "initial_slow_start_threshold": 4294967295,
+    "ecn": true,
+    "data_retries": 6,
+    "data_retries_for_link_out": 6,
+    "del_ack_timeout_ms": 20
+  }
+}

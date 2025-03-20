@@ -1,0 +1,10 @@
+GroundStation 404  2
+222  2
+GroundStation 403  0
+28  0
+GroundStation 402  2
+242  2
+GroundStation 401  2
+229  2
+GroundStation 400  1
+181  1

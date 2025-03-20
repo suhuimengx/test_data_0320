@@ -1,0 +1,43 @@
+# Name, Type (Walker-Delta/Star), Orbit number, Satellite number per orbit, Phase factor, Altitude, Inclination
+
+# LEO constellation ...
+
+# LEO constellation test - 120
+#FirstLayer,Delta,12,10,1,570,70.0
+
+# Test constellation for wireshark - 9
+#Test1,Delta,6,8,0,570,70
+Test2,Delta,30,30,0,600,60
+#Test2,Delta,36,20,0,400,40
+
+# Starlink shell 3 - 720
+#Starlink-shell-3,Delta,36,20,0,570,70
+
+# Iridium - 66
+#Iridium,Star,6,11,0,780,86.4
+
+# Starlink shell 5 - 172
+#Starlink-shell-5,Star,4,43,0,560,97.6
+
+# Telesat shell 1 - 351
+#Telesat-shell-1,Star,27,13,0,1015,98.98
+
+# Kuiper stage 1 - 578
+#Kuiper-stage-1,Delta,17,34,1,630,51.9
+
+# OneWeb stage 1 - 648
+#OneWeb-stage-1,Star,18,36,0,1200,87.9
+
+# huawei - 2000
+#huawei,Delta,50,40,0,800,70
+
+# starlink shell 1 - 1584
+#Starlink-shell-1,Delta,72,22,0,550,53
+
+# oneweb - 2304
+#OneWeb,Delta,32,72,0,1200,55
+
+# kuiper - 1296
+#Kuiper,Delta,36,36,0,610,42
+
+# MEO constellation ...

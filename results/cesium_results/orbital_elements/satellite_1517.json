@@ -1,0 +1,30 @@
+[
+    {
+        "Altitude(m)": 607897.637515257,
+        "Argument of Periapsis(deg)": 0.0,
+        "Eccentricity": 0.0,
+        "Inclination(deg)": 60.0,
+        "Latitude(deg)": -14.293063522912384,
+        "Longitude(deg)": -128.381261308909,
+        "Mean Anomaly(deg)": -16.363599999999984,
+        "RAAN(deg)": 340.00000000000006,
+        "Satellite Name": "Test1 1517",
+        "Satellite Number": 1517,
+        "Semi-Major Axis(m)": 6980739.136638005,
+        "Time(s)": 0
+    },
+    {
+        "Altitude(m)": 607750.8380695228,
+        "Argument of Periapsis(deg)": 0.00010418945913296404,
+        "Eccentricity": 0.0,
+        "Inclination(deg)": 60.0,
+        "Latitude(deg)": -13.758905255119668,
+        "Longitude(deg)": -128.09419158722469,
+        "Mean Anomaly(deg)": -15.743493854538132,
+        "RAAN(deg)": 339.99957995086027,
+        "Satellite Name": "Test1 1517",
+        "Satellite Number": 1517,
+        "Semi-Major Axis(m)": 6980739.136638005,
+        "Time(s)": 10
+    }
+]

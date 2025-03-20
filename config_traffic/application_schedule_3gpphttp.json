@@ -1,0 +1,18 @@
+{
+  "3gpphttp_flows":[
+    {
+      "flow_id": 0,
+      "sender": 0,
+      "receiver": 1,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000
+    },
+    {
+      "flow_id": 1,
+      "sender": 0,
+      "receiver": 4,
+      "start_time_ns": 1000000000,
+      "duration_time_ns": 200000000000
+    }
+  ]
+}

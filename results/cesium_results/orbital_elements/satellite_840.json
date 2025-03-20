@@ -1,0 +1,30 @@
+[
+    {
+        "Altitude(m)": 610399.5677436487,
+        "Argument of Periapsis(deg)": 0.0,
+        "Eccentricity": 0.0,
+        "Inclination(deg)": 60.0,
+        "Latitude(deg)": 52.11144227574423,
+        "Longitude(deg)": 137.58438055276375,
+        "Mean Anomaly(deg)": 65.45450000000001,
+        "RAAN(deg)": 190.0,
+        "Satellite Name": "Test1 840",
+        "Satellite Number": 840,
+        "Semi-Major Axis(m)": 6980739.136638005,
+        "Time(s)": 0
+    },
+    {
+        "Altitude(m)": 610481.7184119208,
+        "Argument of Periapsis(deg)": 0.00010418945913296404,
+        "Eccentricity": 0.0,
+        "Inclination(deg)": 60.0,
+        "Latitude(deg)": 52.47104371405469,
+        "Longitude(deg)": 138.3665196397943,
+        "Mean Anomaly(deg)": 66.07460614546181,
+        "RAAN(deg)": 189.99957995086027,
+        "Satellite Name": "Test1 840",
+        "Satellite Number": 840,
+        "Semi-Major Axis(m)": 6980739.136638005,
+        "Time(s)": 10
+    }
+]

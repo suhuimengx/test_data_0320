@@ -1,0 +1,21 @@
+{
+  "antenna": {
+    "minimum_elevation_angle_deg": 5.0,
+    "frequency_hz": 20000000000,
+    "scenario": "SUBURBAN_AND_RURAL",
+    "transmit_power_dbm": 50,
+    "transmit_antenna_gain_dbi": 40,
+    "enable_ber": false
+  },
+  "DVB-S2": {
+    "enable_DVB-S2_protocol": true,
+    "MCS": "SAT_MODCOD_8PSK_3_TO_4"
+  },
+  "DVB-S2X": {
+    "enable_DVB-S2X_protocol": false,
+    "MCS": "SAT_MODCOD_S2X_QPSK_11_TO_45_SHORT_NOPILOTS"
+  },
+  "DVB-RCS2": {
+    "Waveform": 3
+  }
+}

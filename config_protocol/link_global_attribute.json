@@ -1,0 +1,33 @@
+{
+  "feeder_link": {
+    "enable_gsl_data_rate_fixed": true,
+    "gsl_data_rate_megabit_per_s": 500,
+    "gsl_max_queue_size_pkts": 500,
+    "gsl_error_rate_per_pkt": 0,
+    "csma": {
+      "csma_enabled": false
+    },
+    "aloha": {
+      "aloha_enabled": false
+    },
+    "fdma": {
+      "fdma_enabled": true
+    },
+    "maximum_feeder_link_number": 5,
+    "enable_distance_nearest_first": true
+  },
+  "intersatellite_link": {
+    "enable_isl_data_rate_fixed": true,
+    "isl_data_rate_megabit_per_s": 1000,
+    "isl_max_queue_size_pkts": 500,
+    "isl_error_rate_per_pkt": 0.001,
+    "ppp": {
+      "ppp_enabled": true
+    },
+    "hdlc": {
+      "hdlc_enabled": false
+    },
+    "enable_grid_type_isl_establish": true,
+    "enable_red_queue_disc": false
+  }
+}
