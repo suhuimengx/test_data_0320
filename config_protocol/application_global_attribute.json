@@ -5,7 +5,7 @@
     "geo_distribution_model": false
   },
   "udp_flow": {
-    "application_enabled": false,
+    "application_enabled": true,
     "total_flow_number": 150
   },
   "tcp_flow": {
@@ -13,7 +13,7 @@
     "total_flow_number": 100
   },
   "quic_flow": {
-    "application_enabled": true,
+    "application_enabled": false,
     "total_flow_number": 100
   },
   "ftp_flow": {

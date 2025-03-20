@@ -12,7 +12,7 @@
     "pacing": false
   },
   "quic": {
-    "initial_slow_start_threshold": 60000000,
+    "initial_CWND_packets": 60000000,
     "send_buffer_size_bytes": 33554432,
     "stream_send_buffer_size_bytes": 33554432,
     "receive_buffer_size_bytes": 33554432,
